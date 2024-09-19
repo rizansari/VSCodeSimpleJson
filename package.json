@@ -1,5 +1,5 @@
 {
-  "name": "vscode-json-editor",
+  "name": "simple-json",
   "displayName": "Simple Json",
   "description": "JSON editor with validation and formatting options",
   "version": "0.0.2",
